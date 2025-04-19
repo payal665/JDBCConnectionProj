@@ -42,3 +42,9 @@ CREATE TABLE books (
     publisher VARCHAR(100),
     quantity INT
 );
+
+## 📸 Console Output
+
+<p align="center">
+  <img src="C:\Users\Lenovo\Pictures\Screenshots\Screenshot 2025-04-19 215803.png" alt="Console Output" width="600">
+</p>
